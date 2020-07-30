@@ -14,6 +14,8 @@ It has the capability to monitor multiple websites in parallel which can acceler
 
 [npm](https://www.npmjs.com/package/lighthouse-batch-parallel):
 
+`$ sudo get-apt install chromium`
+
 `$ npm i lighthouse-batch-parallel`
 
 yarn:
